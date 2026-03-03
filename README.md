@@ -401,18 +401,4 @@ public class StreamPitfalls {
 }
 ```
 
-## Try This at Home!
-
-Here's a fun challenge to practice everything you've learned! Try creating a program that processes student records:
-1. Create a CSV file with student data (name, grade, department)
-2. Write a program that:
-   - Reads the file using Streams
-   - Filters students with grades above 70
-   - Finds the average grade
-   - Prints out the top performers
-
-This will help you practice using different stream operations together. Don't worry if you don't get it perfect the first time - experiment and have fun with it!
-
----
-
 Remember to check the official Java documentation for more details on Stream API methods and best practices. Happy coding!
